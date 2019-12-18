@@ -1,0 +1,8 @@
+//
+// Created by houda on 13/12/2019.
+//
+
+#ifndef ECOSYSTEME_CAMOUFLAGE_H
+#define ECOSYSTEME_CAMOUFLAGE_H
+
+#endif //ECOSYSTEME_CAMOUFLAGE_H
