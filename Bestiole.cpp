@@ -5,6 +5,12 @@
 #include <cstdlib>
 #include <cmath>
 
+#include "UImg.h"
+#include "IBestiole.h"
+#include <iostream>
+
+
+
 
 const double      Bestiole::AFF_SIZE = 8.;
 const double      Bestiole::MAX_VITESSE = 10.;

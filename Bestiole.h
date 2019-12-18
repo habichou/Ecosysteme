@@ -3,13 +3,12 @@
 
 
 #include "UImg.h"
-
+#include "IBestiole.h"
+#include "Milieu.h"
 #include <iostream>
 
-using namespace std;
+//using namespace std;
 
-
-class Milieu;
 
 
 class Bestiole

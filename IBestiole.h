@@ -6,11 +6,9 @@
 #define ECOSYSTEME_IBESTIOLE_H
 
 
-
 class IBestiole {
 
 };
-
 
 
 #endif //ECOSYSTEME_IBESTIOLE_H
